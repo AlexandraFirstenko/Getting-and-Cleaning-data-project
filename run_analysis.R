@@ -1,3 +1,4 @@
+#According to instructions folder "UCI HAR Dataset" should be in your WD for this code to work
 #load packages
 library(data.table)
 library(dplyr)
